@@ -1,0 +1,2 @@
+# GoKata
+Go CodeKata
